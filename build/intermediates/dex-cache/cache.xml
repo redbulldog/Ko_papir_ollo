@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Volumes/Datas/Android/Rock_Scissors_Paper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Volumes/Datas/Android/Rock_Scissors_Paper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e52cafdaff298b96c9633a5dc915727fa864b50/classes.dex" />
+        <dex dex="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_28b5900ae50b6ba6b1783703e7fc67806ad97faa\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Volumes/Datas/Android/Rock_Scissors_Paper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="8cee0f87fcb058c9f7e90b846adbd28b01594f3e">
-        <dex dex="/Volumes/Datas/Android/Rock_Scissors_Paper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a7bb8f26f35f5ab95f1ec806be47031bc3e3c11/classes.dex" />
+        sha1="bbdabad02d65a13645960505aa565f791296bfbe">
+        <dex dex="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_51e342a530bbdbd5c903102d2eb82a0caf5ef3df\classes.dex" />
     </item>
 
 </items>
