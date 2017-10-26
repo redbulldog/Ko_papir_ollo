@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
                         toastollo.show();
                         break;
                 }
-                eredmeny.setText(String.valueOf(ember_pont) + ':' + String.valueOf(robot_pont));
+                eredmeny.setText("Eredmény: Ember: " + String.valueOf(ember_pont) + " Computer: " + String.valueOf(robot_pont));
             }
         });
         btn_ollo.setOnClickListener(new View.OnClickListener() {
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                         toast.show();
                         break;
                 }
-                eredmeny.setText(String.valueOf(ember_pont) + ':' + String.valueOf(robot_pont));
+                eredmeny.setText("Eredmény: Ember: " + String.valueOf(ember_pont) + " Computer: " + String.valueOf(robot_pont));
             }
         });
         btn_papir.setOnClickListener(new View.OnClickListener() {
@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
                         toastollo.show();
                         break;
                 }
-                eredmeny.setText(String.valueOf(ember_pont) + ':' + String.valueOf(robot_pont));
+                eredmeny.setText("Eredmény: Ember: " + String.valueOf(ember_pont) + " Computer: " + String.valueOf(robot_pont));
             }
         });
 

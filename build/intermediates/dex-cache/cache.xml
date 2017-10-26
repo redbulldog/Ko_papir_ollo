@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\Asztal\Ko_papir_ollo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a7485a36207bc09c3fe7e4618c5dd81739e3757">
+        <dex dex="D:\Asztal\Ko_papir_ollo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58a9733d1cb72fe555d93b1157bbf54f3c0cd30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Asztal\Ko_papir_ollo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_28b5900ae50b6ba6b1783703e7fc67806ad97faa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="bbdabad02d65a13645960505aa565f791296bfbe">
-        <dex dex="D:\Asztal\kopapir\Ko_papir_ollo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_51e342a530bbdbd5c903102d2eb82a0caf5ef3df\classes.dex" />
+        <dex dex="D:\Asztal\Ko_papir_ollo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48f64039d6ddeffef4622baa4a025bd9a27eda9f\classes.dex" />
     </item>
 
 </items>
